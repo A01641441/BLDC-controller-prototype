@@ -6,7 +6,7 @@ Project Name: BLDC controller
 Author: Elyos team assfasfas
 Date: 2022-03-03
 Microcontroller: ESP 32
-Description: A BLDC controller xd
+Description: A BLDC controller xd Actualizacion
 
 *************************************************/
  
